@@ -1,8 +1,7 @@
-altair
 pandas
 streamlit
-sklearn
+scikit-learn
 seaborn
-matplotlib
-sklearn
 numpy
+matplotlib
+sweetviz
